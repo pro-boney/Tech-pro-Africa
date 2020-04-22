@@ -1,0 +1,55 @@
+.myNav{
+	background:red;
+	line-height:50px;
+}
+
+.myNav a{
+	color:white;
+}
+
+#foot{
+	margin-top:20px;
+}
+
+
+#homeCont{
+	background-image:url(' {{asset('/image/four.jpg')}}');
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:500px;
+}
+
+#homeContSub{
+	background:black;
+	min-height:500px;
+	opacity:0.7;
+	color:gold;
+}
+
+.qot{
+	height:70%;
+	width:60%;
+	margin:70px auto;
+}
+
+#footer-top{
+	min-height:150px;
+	color:white;
+	padding:20px;
+	background-color:#313131;
+}
+.foot{
+	border:1px solid white;
+	border-radius:50%;
+	padding: 5px;
+}
+
+#abt_shw{
+	height:300px;
+}
+
+#inner_abt_shw{
+	height:300px;
+	color:blue;
+}
+
